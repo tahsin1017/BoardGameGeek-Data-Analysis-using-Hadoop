@@ -1,0 +1,5 @@
+Card Game|4615
+Abstract Strategy|1544
+Adventure|1144
+Action / Dexterity|1057
+Animals|1049

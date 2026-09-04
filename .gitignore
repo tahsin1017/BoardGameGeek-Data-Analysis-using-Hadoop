@@ -1,0 +1,28 @@
+# Raw and local datasets
+/raw/
+/clean/
+
+# Original working directories
+/scripts/
+/mr1/
+/mr2/
+/mr3/
+/pig/
+
+# Java compiled class files
+**/classes/
+*.class
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp

@@ -1,0 +1,10 @@
+30549|Pandemic|Medical|168364
+13|Catan|Economic|167733
+822|Carcassonne|City Building|161299
+68448|7 Wonders|Ancient|120466
+178900|Codenames|Card Game|119753
+173346|7 Wonders Duel|Ancient|111275
+36218|Dominion|Card Game|106956
+9209|Ticket to Ride|Trains|105748
+167791|Terraforming Mars|Economic|101872
+129622|Love Letter|Card Game|98395

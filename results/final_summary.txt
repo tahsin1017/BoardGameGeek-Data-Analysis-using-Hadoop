@@ -1,0 +1,51 @@
+=== MR-1 Most Owned Board Game ===
+30549	Pandemic	168364
+
+=== MR-3 Top 10 Publishers ===
+(Self-Published)	543
+(Web published)	380
+Hasbro	379
+Decision Games (I)	272
+GMT Games	268
+Ravensburger	255
+AMIGO	249
+(Public Domain)	214
+KOSMOS	212
+999 Games	208
+
+=== Pig-1 Top 5 Categories ===
+Card Game|4615
+Abstract Strategy|1544
+Adventure|1144
+Action / Dexterity|1057
+Animals|1049
+
+=== Pig-2 Top 10 Most Rated ===
+30549|Pandemic|Medical|109006
+822|Carcassonne|City Building|108776
+13|Catan|Economic|108064
+68448|7 Wonders|Ancient|90021
+36218|Dominion|Card Game|81582
+9209|Ticket to Ride|Trains|76207
+178900|Codenames|Card Game|74456
+167791|Terraforming Mars|Economic|74269
+173346|7 Wonders Duel|Ancient|69528
+31260|Agricola|Animals|66107
+
+=== Pig-3 Top 10 Most Owned ===
+30549|Pandemic|Medical|168364
+13|Catan|Economic|167733
+822|Carcassonne|City Building|161299
+68448|7 Wonders|Ancient|120466
+178900|Codenames|Card Game|119753
+173346|7 Wonders Duel|Ancient|111275
+36218|Dominion|Card Game|106956
+9209|Ticket to Ride|Trains|105748
+167791|Terraforming Mars|Economic|101872
+129622|Love Letter|Card Game|98395
+
+=== Pig-4 Total Rows ===
+     800
+
+=== Pig-5 Total Rows ===
+     800

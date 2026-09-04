@@ -1,0 +1,800 @@
+2162|Warhammer 40 000 (Third Edition)|Book|2334
+4741|Warmachine|Book|1032
+11168|Flames of War: The World War II Miniatures Game|Book|861
+21133|Infinity|Book|842
+177354|Frostgrave|Book|778
+184824|Gaslands: Post-Apocalyptic Vehicular Combat|Book|728
+248584|Pantone: The Game|Book|568
+237031|D100 Dungeon|Book|564
+127493|Bolt Action|Book|561
+278297|Choose Your Own Adventure: War with the Evil Power Master|Book|554
+70323|King of Tokyo|Dice|61141
+84876|The Castles of Burgundy|Dice|50576
+34635|Stone Age|Dice|47258
+199561|Sagrada|Dice|30324
+171623|The Voyages of Marco Polo|Dice|21799
+73439|Troyes|Dice|20221
+244522|That's Pretty Clever!|Dice|17403
+163967|Tiny Epic Galaxies|Dice|17116
+62871|Zombie Dice|Dice|16811
+169426|Roll Player|Dice|15640
+173064|Leaving Earth|Math|2548
+103814|Streams|Math|322
+2499|Equate|Math|107
+175265|Piñata Party|Math|86
+3417|Tribulation|Math|85
+74987|Got It!|Math|68
+301009|Piece of Pie|Math|66
+84776|Summy|Math|60
+17529|Haggle|Math|53
+18|RoboRally|Maze|22884
+216201|Robo Rally|Maze|2569
+210052|Lazer Ryderz|Maze|605
+194723|Mask of Anubis|Maze|321
+5082|Rush Hour|Maze|235
+331647|Mazescape Labyrinthos|Maze|208
+130600|Star Wars Labyrinth|Maze|158
+331652|Mazescape Ariadne|Maze|155
+31887|AmuseAmaze|Maze|125
+1908|G.O.O.T.M.U.|Maze|120
+46213|Telestrations|Humor|14122
+257|Kill Doctor Lucky|Humor|6682
+33604|Say Anything|Humor|5815
+1353|Time's Up!|Humor|5284
+36553|Time's Up! Title Recall!|Humor|3266
+17240|That's Life!|Humor|3043
+194690|Viral|Humor|2728
+23686|Gift Trap|Humor|2557
+55697|Power Struggle|Humor|2226
+22348|Duplik|Humor|2054
+156091|Sons of Anarchy: Men of Mayhem|Mafia|2703
+120523|Nothing Personal|Mafia|2304
+31621|Gangster|Mafia|594
+217466|Mafiozoo|Mafia|332
+4328|Tony & Tino|Mafia|260
+29736|Little Italy|Mafia|247
+1001|Vendetta|Mafia|218
+317|The Mob|Mafia|209
+131232|Mafia City|Mafia|180
+20772|King of Chicago|Mafia|175
+2879|Encore|Music|424
+197790|Vinyl|Music|224
+569|Maestro|Music|186
+113931|Rock'n Roll Manager|Music|166
+18765|Shabadabada|Music|147
+933|New Orleans Big Band|Music|131
+3958|Songburst: 70's & 80's Edition|Music|129
+3007|Noteability|Music|108
+3636|SongBurst 50's & 60's Edition|Music|108
+94684|Spontuneous|Music|80
+113924|Zombicide|Horror|17283
+282524|Horrified|Horror|9645
+192153|Pandemic: Reign of Cthulhu|Horror|8650
+7805|Fearsome Floors|Horror|7799
+36932|Claustrophobia|Horror|6783
+137988|Zombicide Season 2: Prison Outbreak|Horror|4407
+244536|Tiny Epic Zombies|Horror|4281
+82168|Escape from the Aliens in Outer Space|Horror|4213
+16772|Mall of Horror|Horror|2944
+120217|City of Horror|Horror|2933
+88126|Time's Up! Family|Memory|597
+269146|Yōkai|Memory|545
+90009|Eselsbrücke|Memory|421
+1835|Scrutineyes|Memory|324
+29020|Party & Co: Extreme|Memory|273
+2817|Delta V|Memory|230
+217619|Sherlook|Memory|224
+3182|Vanished!|Memory|217
+6798|Concentration|Memory|204
+104376|Bonbons|Memory|190
+2223|UNO|Number|23150
+248861|Metro X|Number|1196
+305682|Rolling Realms|Number|981
+15549|Roulette|Number|795
+305984|GPS|Number|372
+181325|Completto|Number|288
+346482|Voll verplant|Number|119
+19990|SuDoku: Das Brettspiel|Number|116
+300725|Ripple Rush|Number|83
+113700|Dash! A whimsical race through Singapore|Number|54
+16986|Ubongo|Puzzle|8256
+269595|Copenhagen|Puzzle|2360
+153318|Dimension|Puzzle|1690
+46396|Ubongo 3D|Puzzle|1624
+264239|Patchwork Doodle|Puzzle|1494
+31479|Ubongo Extreme|Puzzle|1342
+159406|Portal: The Uncooperative Cake Acquisition Game|Puzzle|1294
+90870|Pelican Cove|Puzzle|1170
+941|Turbo Taxi|Puzzle|1099
+244330|Scarabya|Puzzle|1069
+37904|Formula D|Racing|17847
+199478|Flamme Rouge|Racing|13881
+215311|Downforce|Racing|9681
+162007|Steampunk Rally|Racing|6122
+108906|Thunder Alley|Racing|3260
+180680|Automobiles|Racing|3006
+256589|Rallyman: GT|Racing|2637
+60435|Rallyman|Racing|2446
+442|Um Reifenbreite|Racing|2248
+38548|Fast Flowing Forest Fellers|Racing|1595
+238638|Castell|Sports|1612
+2251|Strat-O-Matic Baseball|Sports|1101
+23604|The World Cup Game|Sports|731
+186323|Tavarua|Sports|521
+240892|8Bit Box|Sports|431
+4454|Statis Pro Football|Sports|403
+5740|Strat-O-Matic Pro Football|Sports|394
+3749|Sumo!|Sports|380
+3597|Strat-O-Matic Hockey|Sports|323
+895|APBA Pro Baseball|Sports|292
+9209|Ticket to Ride|Trains|76207
+14996|Ticket to Ride: Europe|Trains|63292
+31627|Ticket to Ride: Nordic Countries|Trains|12360
+17133|Railways of the World|Trains|11352
+21348|Ticket to Ride: Märklin|Trains|8845
+2842|TransAmerica|Trains|7840
+559|Metro|Trains|5798
+253284|Ticket to Ride: New York|Trains|5336
+119432|Snowdonia|Trains|4711
+202670|Ticket to Ride: Rails & Sails|Trains|3390
+123540|Tokaido|Travel|22200
+61458|Kaigan|Travel|447
+137140|Wunderland|Travel|231
+6787|Deutschlandreise|Travel|216
+205961|Travelin'|Travel|198
+7097|Go: The International Travel Game|Travel|150
+86270|Discover India|Travel|136
+193121|Legends|Travel|117
+275215|Namiji|Travel|108
+280655|Zoom in Barcelona|Travel|95
+241590|Smart10|Trivia|867
+287158|Half Truth|Trivia|611
+5050|The Worst-Case Scenario Survival Game|Trivia|607
+1482|Ubi|Trivia|326
+1362|Wit's End|Trivia|298
+182635|Mr Lister's Quiz Shootout|Trivia|296
+89340|Name 5|Trivia|264
+3676|Global Pursuit|Trivia|258
+20761|Ausgerechnet Buxtehude|Trivia|244
+7601|Urban Myth|Trivia|240
+68448|7 Wonders|Ancient|90021
+173346|7 Wonders Duel|Ancient|69528
+126163|Tzolk'in: The Mayan Calendar|Ancient|33217
+124361|Concordia|Ancient|31531
+42|Tigris & Euphrates|Ancient|26160
+154203|Imperial Settlers|Ancient|22229
+12|Ra|Ancient|19763
+54998|Cyclades|Ancient|18852
+127023|Kemet|Ancient|17193
+194594|Dice Forge|Ancient|16967
+31260|Agricola|Animals|66107
+266192|Wingspan|Animals|56146
+54043|Jaipur|Animals|41215
+70919|Takenoko|Animals|38038
+157354|Five Tribes|Animals|34594
+237182|Root|Animals|31590
+102794|Caverna: The Cave Farmers|Animals|29797
+199792|Everdell|Animals|29041
+172225|Exploding Kittens|Animals|24803
+153938|Camel Up|Animals|24006
+6249|Alhambra|Arabian|30166
+62227|Labyrinth: The War on Terror 2001 – ?|Arabian|4518
+29223|Marrakech|Arabian|4093
+492|Aladdin's Dragons|Arabian|3133
+306040|Merv: The Heart of the Silk Road|Arabian|2092
+22278|12 Thieves|Arabian|1577
+25491|Alhambra: The Dice Game|Arabian|1145
+22497|Straw|Arabian|1006
+431|Alhambra: The Card Game|Arabian|987
+145012|Sultaniya|Arabian|791
+40692|Small World|Fantasy|64580
+170216|Blood Rage|Fantasy|37572
+37046|Ghost Stories|Fantasy|20016
+263918|Cartographers|Fantasy|16729
+180974|Potion Explosion|Fantasy|15285
+209010|Mechs vs. Minions|Fantasy|15124
+43443|Castle Panic|Fantasy|14840
+43111|Chaos in the Old World|Fantasy|14674
+206718|Ethnos|Fantasy|10880
+97786|Small World Underground|Fantasy|10152
+104006|Village|Farming|21171
+145659|Scoville|Farming|4992
+8125|Santiago|Farming|4948
+241831|Reykholt|Farming|2828
+242804|Lowlands|Farming|2397
+227515|Riverboat|Farming|2145
+29839|Key Harvest|Farming|1760
+205045|Avenue|Farming|1455
+124052|Cinque Terre|Farming|1353
+287589|Red Outpost|Farming|1286
+30549|Pandemic|Medical|109006
+198928|Pandemic: Iberia|Medical|8879
+195162|Plague Inc.: The Board Game|Medical|2794
+280789|Pandemic: Rapid Response|Medical|2091
+301919|Pandemic: Hot Zone – North America|Medical|1227
+109764|Quarantine|Medical|900
+4355|Therapy|Medical|704
+142854|Infection: Humanity's Last Gasp|Medical|579
+329670|Pandemic: Hot Zone – Europe|Medical|142
+1684|Intern|Medical|65
+22287|Buccaneer|Pirates|1712
+34320|Shanghaien|Pirates|1283
+153425|North Wind|Pirates|1029
+5457|Dread Pirate|Pirates|966
+7571|Winds of Plunder|Pirates|713
+224031|Cartagena|Pirates|675
+24416|Santy Anno|Pirates|570
+265017|Tortuga 2199|Pirates|519
+172613|Pirates of the 7 Seas|Pirates|461
+495|Time Pirates|Pirates|254
+268864|Undaunted: Normandy|Wargame|6301
+21050|Combat Commander: Europe|Wargame|5572
+91|Paths of Glory|Wargame|4689
+243|Advanced Squad Leader|Wargame|3589
+1035|Squad Leader|Wargame|3234
+24800|Conflict of Heroes: Awakening the Bear! – Russia 1941-42|Wargame|3007
+258210|Blitzkrieg!: World War Two in 20 Minutes|Wargame|2758
+35052|Axis & Allies Anniversary Edition|Wargame|2726
+159473|Quartermaster General|Wargame|2524
+520|Axis & Allies: Europe|Wargame|2489
+133437|Dead Panic|Zombies|1109
+234834|Apocalypse au Zoo de Carson City|Zombies|218
+157673|Pints of Blood|Zombies|142
+93879|Grave Business|Zombies|139
+149324|Escape from Sunset Island: Zombie Apocalypse Simulator|Zombies|83
+131982|We Are Dead: Zombie Mall Massacre|Zombies|82
+175778|Zombies!!! Jr.|Zombies|73
+209551|Zombergeek|Zombies|64
+146299|Bowling for Zombies!!!|Zombies|47
+230995|Deadland|Zombies|45
+478|Citadels|Bluffing|50194
+150376|Dead of Winter: A Crossroads Game|Bluffing|41405
+131357|Coup|Bluffing|38758
+41114|The Resistance|Bluffing|37370
+463|Magic: The Gathering|Bluffing|34402
+37111|Battlestar Galactica: The Board Game|Bluffing|33964
+157969|Sheriff of Nottingham|Bluffing|31472
+103343|A Game of Thrones: The Board Game (Second Edition)|Bluffing|30266
+39463|Cosmic Encounter|Bluffing|28836
+128882|The Resistance: Avalon|Bluffing|28818
+13|Catan|Economic|108064
+167791|Terraforming Mars|Economic|74269
+169786|Scythe|Economic|64611
+2651|Power Grid|Economic|58614
+183394|Viticulture Essential Edition|Economic|34792
+1406|Monopoly|Economic|30817
+148949|Istanbul|Economic|27086
+224517|Brass: Birmingham|Economic|25515
+176494|Isle of Skye: From Chieftain to King|Economic|21986
+28720|Brass: Lancashire|Economic|20919
+21241|Neuroshima Hex! 3.0|Fighting|13806
+29368|Last Night on Earth: The Zombie Game|Fighting|13735
+54625|Space Hulk (Third Edition)|Fighting|6834
+192457|Cry Havoc|Fighting|6216
+202408|Adrenaline|Fighting|5907
+42776|Gears of War: The Board Game|Fighting|4828
+104363|Rex: Final Days of an Empire|Fighting|4309
+176083|Hit Z Road|Fighting|3770
+2163|Space Hulk|Fighting|3703
+79127|Star Trek: Fleet Captains|Fighting|3199
+244521|The Quacks of Quedlinburg|Medieval|29683
+164928|Orléans|Medieval|24610
+93|El Grande|Medieval|24485
+107529|Kingdom Builder|Medieval|20847
+170042|Raiders of the North Sea|Medieval|18327
+43015|Hansa Teutonica|Medieval|12661
+266810|Paladins of the West Kingdom|Medieval|11153
+250458|Gùgōng|Medieval|7037
+96913|Lancaster|Medieval|6904
+296151|Viscounts of the West Kingdom|Medieval|5445
+28023|Jamaica|Nautical|17115
+13308|Niagara|Nautical|8168
+826|Cartagena|Nautical|7602
+159508|AquaSphere|Nautical|6791
+242574|Century: Eastern Wonders|Nautical|6178
+137408|Amerigo|Nautical|5713
+15817|Manila|Nautical|5666
+157403|Black Fleet|Nautical|5123
+41002|Vasco da Gama|Nautical|4361
+256|Mississippi Queen|Nautical|3938
+174430|Gloomhaven|Adventure|47853
+65244|Forbidden Island|Adventure|44528
+10547|Betrayal at House on the Hill|Adventure|39652
+15987|Arkham Horror|Adventure|37558
+121921|Robinson Crusoe: Adventures on the Cursed Island|Adventure|37107
+205637|Arkham Horror: The Card Game|Adventure|33081
+201808|Clank!: A Deck-Building Adventure|Adventure|31996
+146021|Eldritch Horror|Adventure|31490
+96848|Mage Knight Board Game|Adventure|29417
+205059|Mansions of Madness: Second Edition|Adventure|28536
+36218|Dominion|Card Game|81582
+178900|Codenames|Card Game|74456
+148228|Splendor|Card Game|64734
+129622|Love Letter|Card Game|59484
+39856|Dixit|Card Game|54525
+28143|Race for the Galaxy|Card Game|48919
+1927|Munchkin|Card Game|43759
+98778|Hanabi|Card Game|41588
+11|Bohnanza|Card Game|40113
+50|Lost Cities|Card Game|39535
+187645|Star Wars: Rebellion|Civil War|25603
+221|Ikusa|Civil War|4987
+25021|Sekigahara: The Unification of Japan|Civil War|4824
+987|Kingmaker|Civil War|2921
+144189|Fire in the Lake|Civil War|2417
+58936|Wars of the Roses: Lancaster vs. York|Civil War|1462
+192802|Days of Ire: Budapest 1956|Civil War|1059
+25277|Richard III: The Wars of the Roses|Civil War|907
+31291|España 1936|Civil War|703
+70519|Cruel Necessity: The English Civil Wars 1640-1653|Civil War|701
+181304|Mysterium|Deduction|35262
+161970|Alchemists|Deduction|19572
+2511|Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases|Deduction|18566
+171131|Captain Sonar|Deduction|17428
+147151|Concept|Deduction|16770
+21763|Mr. Jack|Deduction|16109
+438|Scotland Yard|Deduction|15056
+225694|Decrypto|Deduction|14500
+203420|Exit: The Game – The Abandoned Cabin|Deduction|9732
+246784|Cryptid|Deduction|9246
+213893|Yamataï|Mythology|5855
+71671|Yggdrasil|Mythology|3845
+10383|Risk: Godstorm|Mythology|2519
+55253|Atlantis|Mythology|1905
+154182|Helios|Mythology|1808
+177727|Haleakala|Mythology|678
+284333|Yggdrasil Chronicles|Mythology|506
+218580|Divinity Derby|Mythology|418
+19624|Freya's Folly|Mythology|358
+232318|Kami-sama|Mythology|355
+27708|1960: The Making of the President|Political|8763
+119591|Rialto|Political|3853
+132018|Churchill|Political|2545
+29937|König von Siam|Political|2201
+37358|Founding Fathers|Political|1852
+9215|Revolution: The Dutch Revolt 1568-1648|Political|924
+32014|Confucius|Political|707
+125977|Cataclysm: A Second World War|Political|605
+219512|Tudor|Political|602
+21239|Rocketville|Political|586
+31481|Galaxy Trucker|Real-time|30973
+27225|Bananagrams|Real-time|9422
+163602|XCOM: The Board Game|Real-time|8236
+223953|Kitchen Rush|Real-time|3195
+10550|Big Boggle|Real-time|1419
+65200|Asteroyds|Real-time|1172
+71655|Wok Star|Real-time|1148
+279869|Nine Tiles Panic|Real-time|969
+287938|Kitchen Rush (Revised Edition)|Real-time|956
+208480|Wordsy|Real-time|743
+119391|Il Vecchio|Religious|1581
+286830|Tajuto|Religious|330
+12746|Dreidel|Religious|111
+7106|Tabu: The Game of Aztecs|Religious|106
+82223|Feast & Famine|Religious|64
+8448|Bible Challenge|Religious|53
+203401|Luther: Das Spiel|Religious|52
+227505|Portals and Prophets|Religious|45
+8621|Bible TriBond|Religious|34
+189218|曼荼羅 (Mandara)|Religious|32
+320|Scrabble|Word Game|28248
+1515|Upwords|Word Game|2983
+191982|Knit Wit|Word Game|1130
+11182|Super Scrabble|Word Game|583
+13464|Alfapet|Word Game|429
+62709|Funglish|Word Game|387
+12747|Scarabeo|Word Game|366
+9556|Snatch|Word Game|286
+39635|Prolix|Word Game|281
+83919|Scattergories Categories|Word Game|265
+38453|Space Alert|Electronic|15160
+204836|Escape Room: The Game|Electronic|3591
+245271|Forbidden Sky|Electronic|2643
+4864|Scene It?: The DVD Movie Game|Electronic|1473
+137|Pass the Bomb|Electronic|1384
+5749|Simon|Electronic|1065
+37141|Time's Up! Deluxe|Electronic|979
+135262|Electronic Catch Phrase|Electronic|912
+7824|Break the Safe|Electronic|744
+146725|Golem Arcana|Electronic|625
+22877|Fields of Fire|Korean War|1170
+7349|The Korean War June 1950-May 1951|Korean War|440
+6581|Korea: The Forgotten War|Korean War|309
+139433|Fields of Fire 2|Korean War|156
+171708|Holdfast: Korea 1950-51|Korean War|105
+195515|The Chosin Few|Korean War|95
+4935|Test of Arms|Korean War|89
+4343|Semper Fi!|Korean War|86
+10346|Inchon: MacArthur's Gambit|Korean War|85
+43196|Yalu: The Chinese Counteroffensive in Korea: November 1950-May 1951 (Second Edition)|Korean War|85
+10630|Memoir '44|Miniatures|26847
+22825|Tide of Iron|Miniatures|3776
+195560|Wasteland Express Delivery Service|Miniatures|2999
+1568|Space Crusade|Miniatures|2808
+6795|Battleball|Miniatures|2087
+248065|Zombicide: Invader|Miniatures|1868
+219100|UBOOT: The Board Game|Miniatures|1739
+63543|Horus Heresy|Miniatures|1647
+302388|Back to the Future: Back in Time|Miniatures|1641
+29109|Dust|Miniatures|1447
+62222|Commands & Colors: Napoleonics|Napoleonic|2819
+2507|Liberté|Napoleonic|2644
+17396|Manoeuvre|Napoleonic|2368
+36522|2 de Mayo|Napoleonic|1931
+18098|Napoleon's Triumph|Napoleonic|1728
+2557|Castle Risk|Napoleonic|1372
+1662|Napoléon: The Waterloo Campaign 1815|Napoleonic|1288
+626|War and Peace|Napoleonic|1129
+8490|Age of Napoleon|Napoleonic|1122
+42673|Field Commander: Napoleon|Napoleonic|942
+254640|Just One|Party Game|15806
+1111|Taboo|Party Game|11136
+2381|Scattergories|Party Game|9063
+891|Cranium|Party Game|8889
+2952|Trivial Pursuit: Genus Edition|Party Game|7621
+2281|Pictionary|Party Game|7229
+262543|Wavelength|Party Game|6337
+67877|Anomia|Party Game|3470
+208895|New York Slice|Party Game|3249
+32441|Bezzerwizzer|Party Game|2779
+204516|878 Vikings: Invasions of England|Educational|2825
+118174|Compounded|Educational|2651
+165401|Wir sind das Volk!|Educational|2161
+7866|10 Days in the USA|Educational|2084
+198953|Pax Renaissance|Educational|2040
+153507|Terra|Educational|2038
+91620|Pastiche|Educational|2035
+5867|10 Days in Europe|Educational|1957
+7865|10 Days in Africa|Educational|1937
+300442|Trekking the World|Educational|1639
+54|Tikal|Exploration|18520
+209778|Magic Maze|Exploration|17274
+2471|Zombies!!!|Exploration|14718
+73761|K2|Exploration|9591
+183251|Karuba|Exploration|9441
+33160|Endeavor|Exploration|9202
+172081|Burgle Bros.|Exploration|9173
+15363|Nexus Ops|Exploration|8594
+233398|Endeavor: Age of Sail|Exploration|7219
+1897|The Starfarers of Catan|Exploration|5123
+1345|Genoa|Negotiation|5980
+17392|Here I Stand|Negotiation|3659
+30645|Tammany Hall|Negotiation|3626
+115|I'm the Boss!|Negotiation|3611
+196|Kremlin|Negotiation|2837
+265|Intrigue|Negotiation|2628
+1563|Rise and Decline of the Third Reich|Negotiation|1920
+14|Basari|Negotiation|1650
+41066|Virgin Queen|Negotiation|1592
+24396|War on Terror|Negotiation|1171
+134453|The Little Prince: Make Me a Planet|Novel-based|3593
+12005|Around the World in 80 Days|Novel-based|3158
+670|Starship Troopers|Novel-based|1210
+230769|Who Goes There?|Novel-based|871
+297129|Jekyll vs. Hyde|Novel-based|730
+224894|Michael Strogoff|Novel-based|549
+298635|Alice's Garden|Novel-based|347
+104555|The Blue Lion|Novel-based|342
+414|Around the World in 80 Days|Novel-based|300
+263744|Jonathan Strange & Mr Norrell: A Board Game of English Magic|Novel-based|208
+4390|Carcassonne: Hunters and Gatherers|Prehistoric|11739
+124|Primordial Soup|Prehistoric|4596
+107255|Evo (Second Edition)|Prehistoric|2158
+5767|Mammoth Hunters|Prehistoric|1022
+169649|Sapiens|Prehistoric|952
+2539|Urland|Prehistoric|778
+65568|Jäger und Sammler|Prehistoric|564
+255805|Honga|Prehistoric|544
+161530|Jäger und Späher|Prehistoric|538
+23981|Genesis|Prehistoric|470
+66188|Fresco|Renaissance|12268
+203993|Lorenzo il Magnifico|Renaissance|10751
+46|Medici|Renaissance|7454
+180511|Shakespeare|Renaissance|3998
+270970|Century: A New World|Renaissance|3566
+15318|Palazzo|Renaissance|2421
+299960|Alma Mater|Renaissance|1613
+41569|The Great Fire of London 1666|Renaissance|1525
+191972|Dynasties: Heirate & Herrsche|Renaissance|1082
+192351|World Monuments|Renaissance|797
+6542|Lock 'n Load: Forgotten Heroes – Vietnam|Vietnam War|355
+214996|Silver Bayonet: The First Team in Vietnam 1965 (25th Anniversary Edition)|Vietnam War|295
+7994|Silver Bayonet: The First Team in Vietnam 1965|Vietnam War|144
+70532|Tonkin: The First Indochina War (Second Edition)|Vietnam War|138
+186974|Khe Sanh '68|Vietnam War|114
+16271|No Trumpets No Drums: The Vietnam War 1965-1975|Vietnam War|82
+6036|Tet '68|Vietnam War|69
+23613|La vallée de la mort|Vietnam War|67
+22297|Winged Horse: Campaigns in Vietnam 1965-66|Vietnam War|63
+8405|Hamburger Hill|Vietnam War|52
+120677|Terra Mystica|Civilization|41823
+132531|Roll for the Galaxy|Civilization|28229
+72125|Eclipse|Civilization|26851
+12493|Twilight Imperium: Third Edition|Civilization|18623
+25613|Through the Ages: A Story of Civilization|Civilization|18379
+233078|Twilight Imperium: Fourth Edition|Civilization|16036
+286096|Tapestry|Civilization|14263
+22545|Age of Empires III: The Age of Discovery|Civilization|9969
+162082|Deus|Civilization|7804
+105551|Archipelago|Civilization|7647
+148729|Maquis|Print & Play|1787
+142267|Bomb Squad|Print & Play|880
+147299|Pocket Imperium|Print & Play|703
+273779|Under Falling Skies: A 9-Card Print-and-Play Game|Print & Play|622
+200551|30 Rails|Print & Play|521
+196257|Castle Itter|Print & Play|369
+6544|Battle for Moscow|Print & Play|319
+3177|Battle for Armageddon|Print & Play|290
+26747|Space Junkyard|Print & Play|237
+28452|Valor & Victory|Print & Play|230
+52568|Mali Powstańcy: Warszawa 1944|World War II|344
+223096|Raid on Taihoku|World War II|130
+145381|The Outcast Heroes|World War II|121
+266652|Raid on Takao|World War II|41
+162886|Spirit Island|Age of Reason|32239
+9217|Saint Petersburg|Age of Reason|15010
+144344|Rococo|Age of Reason|7978
+79828|A Few Acres of Snow|Age of Reason|7599
+13642|Louis XIV|Age of Reason|5384
+244711|Newton|Age of Reason|5150
+52461|Legacy: The Testament of Duke de Crecy|Age of Reason|4128
+9625|Struggle of Empires|Age of Reason|3954
+128996|1775: Rebellion|Age of Reason|3880
+156943|Saint Petersburg (Second Edition)|Age of Reason|3018
+193738|Great Western Trail|American West|32984
+3955|BANG!|American West|27833
+158899|Colt Express|American West|26861
+143741|BANG! The Dice Game|American West|21131
+140620|Lewis & Clark: The Expedition|American West|13888
+40793|Dice Town|American West|7037
+39938|Carson City|American West|6894
+171669|Discoveries: The Journals of Lewis & Clark|American West|4597
+878|Wyatt Earp|American West|3945
+180852|Tiny Epic Western|American West|3825
+822|Carcassonne|City Building|108776
+3076|Puerto Rico|City Building|65455
+110327|Lords of Waterdeep|City Building|48671
+204583|Kingdomino|City Building|36935
+143884|Machi Koro|City Building|28415
+35677|Le Havre|City Building|27996
+18602|Caylus|City Building|27494
+155426|Castles of Mad King Ludwig|City Building|23136
+123260|Suburbia|City Building|22509
+233867|Welcome To...|City Building|21550
+161936|Pandemic Legacy: Season 1|Environmental|45064
+221107|Pandemic Legacy: Season 2|Environmental|13651
+252929|Planet|Environmental|3990
+252153|Tang Garden|Environmental|2789
+210274|Petrichor|Environmental|1810
+129351|The Cave|Environmental|1789
+169794|Haspelknecht|Environmental|1787
+98918|Bios: Genesis|Environmental|1389
+300001|Renature|Environmental|1212
+221769|Bios: Megafauna (Second Edition)|Environmental|1020
+2748|Thirty Years War: Europe in Agony 1618-1648|Pike and Shot|653
+17651|Under the Lily Banners|Pike and Shot|309
+18746|Gustav Adolf the Great: With God and Victorious Arms|Pike and Shot|252
+39019|Nothing Gained But Glory|Pike and Shot|227
+101682|Saints in Armor|Pike and Shot|225
+6930|Sweden Fights On|Pike and Shot|218
+4009|Breitenfeld|Pike and Shot|197
+4852|Armada: The War With Spain 1585-1604|Pike and Shot|184
+22606|Won by the Sword|Pike and Shot|169
+3581|Lion of the North: The Dawn of Modern Warfare|Pike and Shot|153
+282171|Trial by Trolley|Mature / Adult|1501
+9354|Privacy|Mature / Adult|307
+76810|Last Call: The Bartender Game|Mature / Adult|281
+6749|Busen Memo|Mature / Adult|275
+99655|Swinging Jivecat Voodoo Lounge|Mature / Adult|219
+38062|Privacy 2|Mature / Adult|184
+231674|Who's the Dude?|Mature / Adult|173
+28508|Loaded Questions: Adult Version|Mature / Adult|167
+218722|5 Second Rule: Uncensored|Mature / Adult|143
+56406|Activity Club-Edition|Mature / Adult|135
+12333|Twilight Struggle|Modern Warfare|43064
+26997|1989: Dawn of Freedom|Modern Warfare|2114
+91080|Andean Abyss|Modern Warfare|1746
+127518|A Distant Plain|Modern Warfare|1558
+180199|Colonial Twilight: The French-Algerian War 1954-62|Modern Warfare|894
+1574|Tactics II|Modern Warfare|817
+5620|Vietnam 1965-1975|Modern Warfare|722
+3218|The Arab-Israeli Wars: Tank Battles in the Mideast|Modern Warfare|680
+25729|World at War: Eisenbach Gap|Modern Warfare|653
+4090|2nd Fleet: Modern Naval Combat in the North Atlantic|Modern Warfare|578
+39339|Android|Murder/Mystery|3781
+193560|Escape the Room: Mystery at the Stargazer's Manor|Murder/Mystery|1692
+218074|Detective: City of Angels|Murder/Mystery|1528
+294514|5-Minute Mystery|Murder/Mystery|941
+17517|Clue Mysteries|Murder/Mystery|350
+1147|Outrage! Steal the Crown Jewels|Murder/Mystery|297
+41095|Clue: Secrets & Spies|Murder/Mystery|246
+331059|Last Message|Murder/Mystery|207
+311686|Escape the Room: The Cursed Dollhouse|Murder/Mystery|138
+3531|The Return of the Stainless Steel Rat|Murder/Mystery|132
+552|Bus|Transportation|2486
+38862|Giants|Transportation|2458
+111417|The Great Heartland Hauling Co.|Transportation|2447
+227758|Kokoro: Avenue of the Kodama|Transportation|1777
+19995|Canal Mania|Transportation|1246
+5825|Paris Paris|Transportation|1167
+148601|1944: Race to the Rhine|Transportation|1151
+251053|Let's Make a Bus Route|Transportation|761
+40761|Montego Bay|Transportation|662
+164159|BUS|Transportation|586
+2243|Yahtzee|Children's Game|12730
+1219|Labyrinth|Children's Game|11337
+2921|The Game of Life|Children's Game|11326
+2425|Battleship|Children's Game|9127
+2407|Sorry!|Children's Game|6165
+41916|The Magic Labyrinth|Children's Game|5250
+4143|Guess Who?|Children's Game|5111
+2136|Pachisi|Children's Game|4768
+226320|My Little Scythe|Children's Game|4453
+5048|Candy Land|Children's Game|4239
+21790|Thurn and Taxis|Post-Napoleonic|18703
+163068|Trickerion: Legends of Illusion|Post-Napoleonic|7728
+258036|Between Two Castles of Mad King Ludwig|Post-Napoleonic|4736
+178336|World's Fair 1893|Post-Napoleonic|3463
+231733|Obsession|Post-Napoleonic|3058
+223278|The Palace of Mad King Ludwig|Post-Napoleonic|1160
+41627|Zulus on the Ramparts!: The Battle of Rorke's Drift – Second Edition|Post-Napoleonic|908
+273284|Atelier: The Painter's Studio|Post-Napoleonic|300
+27965|The Tide at Sunrise: The Russo-Japanese War 1904-1905|Post-Napoleonic|236
+22604|The Halls of Montezuma|Post-Napoleonic|228
+233371|Clank! In! Space!: A Deck-Building Adventure|Science Fiction|10769
+133848|Euphoria: Build a Better Dystopia|Science Fiction|9881
+176920|Mission: Red Planet (Second Edition)|Science Fiction|9590
+105134|Risk Legacy|Science Fiction|7839
+1829|Risk 2210 A.D.|Science Fiction|6859
+317985|Beyond the Sun|Science Fiction|4877
+18258|Mission: Red Planet|Science Fiction|4148
+191051|Outlive|Science Fiction|3889
+230244|Black Angel|Science Fiction|3634
+162286|Super Motherload|Science Fiction|3554
+293889|Fallout Shelter: The Board Game|Video Game Theme|1736
+269603|Minecraft: Builders & Biomes|Video Game Theme|1618
+278120|God of War: The Card Game|Video Game Theme|625
+254088|Gravity Superstar|Video Game Theme|574
+285992|Pac-Man: The Board Game|Video Game Theme|197
+140386|Assassin's Creed: Arena|Video Game Theme|164
+260942|Monopoly: Fortnite|Video Game Theme|152
+223763|Atari's Centipede|Video Game Theme|143
+279741|Devil May Cry: The Bloody Palace|Video Game Theme|112
+6598|Frogger|Video Game Theme|76
+230802|Azul|Abstract Strategy|62860
+163412|Patchwork|Abstract Strategy|52225
+2655|Hive|Abstract Strategy|31736
+194655|Santorini|Abstract Strategy|31525
+171|Chess|Abstract Strategy|30820
+16992|Tsuro|Abstract Strategy|24647
+2453|Blokus|Abstract Strategy|24059
+8203|Hey That's My Fish!|Abstract Strategy|20075
+218603|Photosynthesis|Abstract Strategy|18873
+160477|Onitama|Abstract Strategy|17209
+103885|Star Wars: X-Wing Miniatures Game|Aviation / Flight|23718
+63628|The Manhattan Project|Aviation / Flight|9353
+90419|Airlines Europe|Aviation / Flight|7011
+5716|Balloon Cup|Aviation / Flight|5833
+9203|Wings of War: Famous Aces|Aviation / Flight|4652
+183562|Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set|Aviation / Flight|2930
+303057|Pan Am|Aviation / Flight|2777
+32116|Airships|Aviation / Flight|2674
+632|Cloud 9|Aviation / Flight|2227
+252328|Star Wars: X-Wing (Second Edition)|Aviation / Flight|2119
+227273|Cosmogenesis|Space Exploration|591
+38553|Duck Dealer|Space Exploration|533
+204615|StarFall|Space Exploration|293
+313008|Apollo: A Game Inspired by NASA Moon Missions|Space Exploration|281
+265635|Space Race|Space Exploration|280
+137872|EONS|Space Exploration|238
+2853|Liftoff!|Space Exploration|203
+302510|Mining Colony|Space Exploration|175
+223767|Galactic Warlords: Battle for Dominion|Space Exploration|89
+309319|Apogee|Space Exploration|55
+113294|Escape: The Curse of the Temple|Action / Dexterity|15963
+521|Crokinole|Action / Dexterity|13455
+2452|Jenga|Action / Dexterity|12649
+8098|Jungle Speed|Action / Dexterity|11921
+150|PitchCar|Action / Dexterity|10026
+177524|ICECOOL|Action / Dexterity|9164
+91514|Rhino Hero|Action / Dexterity|9137
+327|Loopin' Louie|Action / Dexterity|8697
+169124|Flick 'em Up!|Action / Dexterity|8211
+171273|FUSE|Action / Dexterity|7591
+119506|Freedom: The Underground Railroad|American Civil War|4040
+551|Battle Cry|American Civil War|3466
+701|A House Divided: War Between the States 1861-65|American Civil War|1946
+833|For the People|American Civil War|1565
+2081|The Civil War 1861-1865|American Civil War|1198
+88827|Battle Cry: 150th Civil War Anniversary Edition|American Civil War|1157
+9825|Early American Chrononauts|American Civil War|924
+246201|Lincoln|American Civil War|829
+229956|Fort Sumter: The Secession Crisis 1860-61|American Civil War|750
+36400|The Guns of Gettysburg|American Civil War|623
+164265|Witness|Comic Book / Strip|2490
+14808|Marvel Heroes|Comic Book / Strip|2440
+24703|Heroscape Marvel: The Conflict Begins|Comic Book / Strip|1873
+1604|The Mad Magazine Game|Comic Book / Strip|1461
+158109|Onward to Venus|Comic Book / Strip|1377
+256877|Hail Hydra|Comic Book / Strip|1313
+180771|Teenage Mutant Ninja Turtles: Shadows of the Past|Comic Book / Strip|1229
+144734|Arcane Academy|Comic Book / Strip|987
+233868|HATE|Comic Book / Strip|960
+130911|Batman: Gotham City Strategy Game|Comic Book / Strip|823
+181|Risk|Territory Building|31723
+131366|Eight-Minute Empire|Territory Building|7897
+33154|Wasabi!|Territory Building|4781
+191231|Via Nebula|Territory Building|4079
+37198|Risk (Revised Edition)|Territory Building|3131
+76674|String Railway|Territory Building|1905
+163920|Gaïa|Territory Building|1546
+117914|Milestones|Territory Building|1129
+160561|Versailles|Territory Building|826
+23010|Risk: 40th Anniversary Collector's Edition|Territory Building|670
+156858|Black Orchestra|Spies/Secret Agents|4944
+314040|Pandemic Legacy: Season 0|Spies/Secret Agents|3574
+169318|City of Spies: Estoril 1942|Spies/Secret Agents|1501
+163474|V-Sabotage|Spies/Secret Agents|1362
+219708|Professor Evil and The Citadel of Time|Spies/Secret Agents|1266
+119899|Gunrunners|Spies/Secret Agents|249
+166859|Web of Spies|Spies/Secret Agents|173
+3640|Spy Ring|Spies/Secret Agents|165
+32047|The Circle|Spies/Secret Agents|162
+300148|Spy Connection|Spies/Secret Agents|107
+94246|1812: The Invasion of Canada|American Indian Wars|2274
+229265|Wendake|American Indian Wars|1896
+102435|Navajo Wars|American Indian Wars|906
+1645|War of 1812|American Indian Wars|653
+159692|Comanchería: The Rise and Fall of the Comanche Empire|American Indian Wars|592
+231|Geronimo|American Indian Wars|239
+205819|Black Hills|American Indian Wars|223
+41100|King Philip's War|American Indian Wars|180
+5321|The Battle of the Little Big Horn|American Indian Wars|87
+6053|Little Big Horn|American Indian Wars|73
+148575|Marvel Dice Masters: Avengers vs. X-Men|Collectible Components|5582
+163745|Star Wars: Armada|Collectible Components|4873
+158275|Marvel Dice Masters: Uncanny X-Men|Collectible Components|3743
+112138|Krosmaster: Arena|Collectible Components|3562
+1540|BattleTech|Collectible Components|3419
+15985|Blood Bowl: Living Rulebook|Collectible Components|3385
+10653|Pirates of the Spanish Main|Collectible Components|2795
+3439|HeroClix|Collectible Components|2438
+212445|Blood Bowl (2016 Edition)|Collectible Components|2382
+160902|Dungeons & Dragons Dice Masters: Battle for Faerûn|Collectible Components|1465
+199076|Warmachine Prime Mk III|Expansion for Base-game|124
+33048|Warhammer 40 000: Apocalypse|Expansion for Base-game|116
+237114|Cthulhu: The Horror in Dunwich|Expansion for Base-game|95
+15081|Retro: Tactical WWII Wargame Variant Rules|Expansion for Base-game|81
+206074|The Solo System|Expansion for Base-game|47
+38562|Song of Arthur and Merlin|Expansion for Base-game|40
+31797|Classic Battletech RPG|Expansion for Base-game|36
+144733|Russian Railroads|Industry / Manufacturing|15846
+143515|Coal Baron|Industry / Manufacturing|4456
+24417|Factory Fun|Industry / Manufacturing|3429
+21920|Leonardo da Vinci|Industry / Manufacturing|3386
+223855|Sentient|Industry / Manufacturing|2225
+230085|Agra|Industry / Manufacturing|2127
+300327|The Castles of Tuscany|Industry / Manufacturing|1967
+301255|Whistle Mountain|Industry / Manufacturing|1622
+172546|Parfum|Industry / Manufacturing|1581
+312251|Curious Cargo|Industry / Manufacturing|1213
+316554|Dune: Imperium|Movies / TV / Radio theme|14949
+904|Dream Factory|Movies / TV / Radio theme|5184
+183880|Risk: Star Wars Edition|Movies / TV / Radio theme|3895
+117985|Star Trek: Catan|Movies / TV / Radio theme|3387
+7316|Bingo|Movies / TV / Radio theme|2282
+17835|Monsters Menace America|Movies / TV / Radio theme|2272
+180564|Carcassonne: Star Wars|Movies / TV / Radio theme|2225
+160610|Thunderbirds|Movies / TV / Radio theme|1788
+193737|Star Trek Panic|Movies / TV / Radio theme|1716
+182340|Star Trek: Frontiers|Movies / TV / Radio theme|1634
+109291|Sails of Glory|American Revolutionary War|1038
+264|Enemy in Sight|American Revolutionary War|663
+222853|Witches of the Revolution|American Revolutionary War|239
+36597|Serpents of the Seas|American Revolutionary War|160
+164655|Don't Tread on Me: The American Revolution Solitaire Board Game|American Revolutionary War|133
+221661|Patriots & Redcoats|American Revolutionary War|125
+198630|Hold the Line: The American Revolution|American Revolutionary War|112
+114530|Newtown|American Revolutionary War|96
+155315|New York 1776|American Revolutionary War|92
+18023|Postcard from the Revolution|American Revolutionary War|65

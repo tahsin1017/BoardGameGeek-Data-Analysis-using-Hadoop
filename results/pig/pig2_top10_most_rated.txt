@@ -1,0 +1,10 @@
+30549|Pandemic|Medical|109006
+822|Carcassonne|City Building|108776
+13|Catan|Economic|108064
+68448|7 Wonders|Ancient|90021
+36218|Dominion|Card Game|81582
+9209|Ticket to Ride|Trains|76207
+178900|Codenames|Card Game|74456
+167791|Terraforming Mars|Economic|74269
+173346|7 Wonders Duel|Ancient|69528
+31260|Agricola|Animals|66107
