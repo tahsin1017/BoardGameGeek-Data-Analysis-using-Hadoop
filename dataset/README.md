@@ -2,6 +2,10 @@
 
 ## Source
 
+Dataset URL:
+
+https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews
+
 This project uses the **BoardGameGeek Reviews** dataset from Kaggle.
 
 The file used for analysis is:
